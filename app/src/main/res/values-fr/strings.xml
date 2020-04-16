@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">E1_TS_CM</string>
+    <string name="creditos">B TANIA SANDOVAL</string>
+    <string name="inst2">" Entrez vos données"</string>
+    <string name="btn_fechanac">" Sélectionnez votre date de naissance"</string>
+    <string name="btn_calcular">" Calculez!"</string>
+    <string name="resultado_edad"></string>
+    <string name="btnToMain">" Commencez"</string>
+    <string name="TextView">CALCULEZ VOUS-MÊME</string>
+    <string name="inst1">" Cette application vous indiquera votre âge, RFC, signe du zodiaque et horoscope chinois"</string>
+    <string name="edit_name">Nom</string>
+    <string name="edit_ap_pat">nom du père</string>
+    <string name="edit_ap_mat">nom maternel</string>
+</resources>

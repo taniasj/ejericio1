@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">E1_TS_CM</string>
+    <string name="creditos">BY TANIA SANDOVAL</string>
+    <string name="inst1">" This app will tell you your age, RFC, zodiac sign and Chinese horoscope"</string>
+    <string name="inst2">"Enter your data "</string>
+    <string name="btn_fechanac">" Select your date of birth"</string>
+    <string name="resultado_edad"></string>
+    <string name="btnToMain">" START"</string>
+    <string name="TextView">CALCULATE YOURSELF</string>
+    <string name="btn_calcular">" calculate!"</string>
+    <string name="edit_name">Name</string>
+    <string name="edit_ap_pat">Last name</string>
+    <string name="edit_ap_mat">mother\'s last name</string>
+</resources>

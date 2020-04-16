@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">E1_TS_CM</string>
+    <string name="btnToMain">COMENZAR</string>
+    <string name="creditos">POR TANIA SANDOVAL</string>
+    <string name="TextView">Calcúlate</string>
+    <string name="inst1">Esta app te dirá tu edad, RFC, signo zodiacal y horóscopo chino</string>
+    <string name="inst2">Ingresa tus datos</string>
+    <string name="btn_calcular">¡Calcular!</string>
+    <string name="resultado_edad"></string>
+    <string name="btn_fechanac">Selecciona tu fecha de nacimiento</string>
+    <string name="edit_name">Nombre</string>
+    <string name="edit_ap_pat">Apellido paterno</string>
+    <string name="edit_ap_mat">Apellido materno</string>
+
+
+
+</resources>
